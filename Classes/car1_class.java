@@ -7,5 +7,8 @@ public class car1_class {
         ferrari.model = "F80";
         ferrari.mass = 800;
         ferrari.speed = 500;
+
+        ferrari.drive();
+        ferrari.car_info();
     }
 }

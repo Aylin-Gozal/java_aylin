@@ -8,5 +8,7 @@ public class electronics1 {
         telephone.color = "Desert Titanium";
         telephone.storage = 256;
         telephone.weight = 200;
+
+        telephone.device_info();
     }
 }
